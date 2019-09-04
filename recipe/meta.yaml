@@ -47,6 +47,7 @@ requirements:
     - gmp  # [unix]
     - gnutls  # [not win]
     - lame  # [not win]
+    - libiconv  # [not win]
     - openh264  # [not win]
 
 test:
