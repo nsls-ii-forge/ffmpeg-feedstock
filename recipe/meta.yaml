@@ -83,14 +83,3 @@ about:
   license: GPL 3
   license_file: COPYING.GPLv3  # [unix]
   summary: Cross-platform solution to record, convert and stream audio and video.
-
-extra:
-  recipe-maintainers:
-    - danielballan
-    - jakirkham
-    - 183amir
-    - caspervdw
-    - patricksnape
-    - ocefpaf
-    - sdvillal
-    - carlodri

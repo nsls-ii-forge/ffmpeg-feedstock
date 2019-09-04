@@ -62,7 +62,12 @@ Current build status
       </details>
     </td>
   </tr>
-![ppc64le disabled](https://img.shields.io/badge/ppc64le-disabled-lightgrey.svg)
+  <tr>
+    <td>Linux_ppc64le</td>
+    <td>
+      <img src="https://img.shields.io/badge/ppc64le-disabled-lightgrey.svg" alt="ppc64le disabled">
+    </td>
+  </tr>
 </table>
 
 Current release info
@@ -121,12 +126,4 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@183amir](https://github.com/183amir/)
-* [@carlodri](https://github.com/carlodri/)
-* [@caspervdw](https://github.com/caspervdw/)
-* [@danielballan](https://github.com/danielballan/)
-* [@jakirkham](https://github.com/jakirkham/)
-* [@ocefpaf](https://github.com/ocefpaf/)
-* [@patricksnape](https://github.com/patricksnape/)
-* [@sdvillal](https://github.com/sdvillal/)
 
